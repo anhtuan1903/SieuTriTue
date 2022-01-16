@@ -1,0 +1,108 @@
+{
+  "questions": [
+    {
+      "category": "Lập Trình", 
+      "type": "multiple", 
+      "difficulty": "Dễ", 
+      "question": "Hệ thập phân có 10 số, hệ nhị phân có 2 số, vậy hệ bát phân (Octal) có bao nhiêu số?",
+      "correct_answer": "b", 
+      "answers": [
+        "a. 3 số", 
+        "b. 8 số",
+        "c. 11 số", 
+        "d. 9 số"
+      ]
+    },
+    {
+      "category": "Lập Trình", 
+      "type": "multiple", 
+      "difficulty": "Dễ", 
+      "question": "Có bao nhiêu ký tự được mã hoá trong bảng ASCII?",
+      "correct_answer": "d", 
+      "answers": [
+        "a. 26 ký tự a-z", 
+        "b. 30 ký tự a-z và 0-9", 
+        "c. 52 ký tự a-z A-Z",
+        "d. 128 ký tự"
+      ]
+    },
+    {
+      "category": "Lập Trình", 
+      "type": "multiple", 
+      "difficulty": "Dễ", 
+      "question": "Sự khác biệt giữa 2 kiểu dữ liệu int và string ?",
+      "correct_answer": "b", 
+      "answers": [
+        "a. int là kiểu dữ liệu chuỗi ký tự, string là kiểu dữ liệu số thực", 
+        "b. int là kiểu dữ liệu số nguyên, string là kiểu dữ liệu chuỗi ký tự",
+        "c. int và string giống nhau", 
+        "d. int và string đều là dữ liệu chuỗi ký tự"
+      ]
+    },
+    {
+      "category": "Lập Trình", 
+      "type": "Dễ", 
+      "difficulty": "Trung Bình", 
+      "question": "Python được viết bằng ngôn ngữ nào ?",
+      "correct_answer": "a", 
+      "answers": [
+        "a. C",
+        "b. C++", 
+        "c. Java", 
+        "d. All the above"
+      ]
+    },
+    {
+      "category": "Lập Trình", 
+      "type": "multiple", 
+      "difficulty": "Trung Bình", 
+      "question": "Câu lệnh nào dưới đây dùng để lấy phần tử cuối của array trials = [1, 2, 3, 5, 6, 7] ?",
+      "correct_answer": "d", 
+      "answers": [
+        "a. trials[5]",
+        "b. trials[6]", 
+        "c. trials[len(trials) - 1]", 
+        "d. Cả a và c"
+      ]
+    },
+    {
+      "category": "Lập Trình", 
+      "type": "multiple", 
+      "difficulty": "Trung Bình", 
+      "question": "Vòng lặp for nào dưới đây được viết đúng ?",
+      "correct_answer": "a", 
+      "answers": [
+        "a. for trial in data:",
+        "b. for trial:data:", 
+        "c. for trial in data", 
+        "d. for data - trial:"
+      ]
+    },
+    {
+      "category": "Địa Lý", 
+      "type": "multiple", 
+      "difficulty": "Trung Bình", 
+      "question": "Con sông nào dài nhất Việt Nam ?",
+      "correct_answer": "d", 
+      "answers": [
+        "a. Sông Hồng",
+        "b. Sông Tiền Giang", 
+        "c. Sông Đà", 
+        "d. Sông Đồng Nai"
+      ]
+    },
+    {
+      "category": "", 
+      "type": "multiple", 
+      "difficulty": "Medium", 
+      "question": "",
+      "correct_answer": "", 
+      "answers": [
+        "a. ",
+        "b. ", 
+        "c. ", 
+        "d. "
+      ]
+    }
+  ]
+}
