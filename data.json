@@ -3,7 +3,7 @@
     {
       "category": "Lập Trình", 
       "type": "multiple", 
-      "difficulty": "Dễ", 
+      "difficulty": "easy", 
       "question": "Hệ thập phân có 10 số, hệ nhị phân có 2 số, vậy hệ bát phân (Octal) có bao nhiêu số?",
       "correct_answer": "b", 
       "answers": [
@@ -16,7 +16,7 @@
     {
       "category": "Lập Trình", 
       "type": "multiple", 
-      "difficulty": "Dễ", 
+      "difficulty": "easy", 
       "question": "Có bao nhiêu ký tự được mã hoá trong bảng ASCII?",
       "correct_answer": "d", 
       "answers": [
@@ -29,7 +29,7 @@
     {
       "category": "Lập Trình", 
       "type": "multiple", 
-      "difficulty": "Dễ", 
+      "difficulty": "easy", 
       "question": "Sự khác biệt giữa 2 kiểu dữ liệu int và string ?",
       "correct_answer": "b", 
       "answers": [
@@ -41,8 +41,8 @@
     },
     {
       "category": "Lập Trình", 
-      "type": "Dễ", 
-      "difficulty": "Trung Bình", 
+      "type": "multiple", 
+      "difficulty": "medium",
       "question": "Python được viết bằng ngôn ngữ nào ?",
       "correct_answer": "a", 
       "answers": [
@@ -55,7 +55,7 @@
     {
       "category": "Lập Trình", 
       "type": "multiple", 
-      "difficulty": "Trung Bình", 
+      "difficulty": "medium",
       "question": "Câu lệnh nào dưới đây dùng để lấy phần tử cuối của array trials = [1, 2, 3, 5, 6, 7] ?",
       "correct_answer": "d", 
       "answers": [
@@ -68,7 +68,7 @@
     {
       "category": "Lập Trình", 
       "type": "multiple", 
-      "difficulty": "Trung Bình", 
+      "difficulty": "medium",
       "question": "Vòng lặp for nào dưới đây được viết đúng ?",
       "correct_answer": "a", 
       "answers": [
@@ -81,7 +81,7 @@
     {
       "category": "Địa Lý", 
       "type": "multiple", 
-      "difficulty": "Trung Bình", 
+      "difficulty": "medium",
       "question": "Con sông nào dài nhất Việt Nam ?",
       "correct_answer": "d", 
       "answers": [
@@ -92,16 +92,55 @@
       ]
     },
     {
-      "category": "", 
+      "category": "Lập Trình", 
       "type": "multiple", 
-      "difficulty": "Medium", 
-      "question": "",
-      "correct_answer": "", 
+      "difficulty": "medium",
+      "question": "Tìm kiếm tuần tự (linear search) có thể tìm kiếm một phần tử trên loại dữ liệu nào sau đây",
+      "correct_answer": "d", 
       "answers": [
-        "a. ",
-        "b. ", 
-        "c. ", 
-        "d. "
+        "a. Dữ liệu đã được sắp xếp",
+        "b. Dữ liệu chưa được sắp xếp", 
+        "c. Dữ liệu có ít phần tử", 
+        "d. Tất cả đáp án trên"
+      ]
+    },
+    {
+      "category": "Lập Trình", 
+      "type": "multiple", 
+      "difficulty": "medium",
+      "question": "Điều kiện để áp dụng giải thuật tìm kiếm nhị phân là?",
+      "correct_answer": "b", 
+      "answers": [
+        "a. Dữ liệu có nhiều phần tử",
+        "b. Dữ liệu đã được sắp xếp",
+        "c. Dữ liệu chưa được sắp xếp", 
+        "d. Tất cả đáp án trên"
+      ]
+    },
+    {
+      "category": "Lập Trình", 
+      "type": "multiple", 
+      "difficulty": "medium",
+      "question": "Đâu KHÔNG phải là nguyên tắc của ngăn xếp (Stack) ?",
+      "correct_answer": "d", 
+      "answers": [
+        "a. Last In First Out - LIFO",
+        "b. Last Out First In - LOFI",
+        "c. First In Last Out - FILO", 
+        "d. First In First Out - FIFO"
+      ]
+    },
+    {
+      "category": "Lập Trình", 
+      "type": "multiple", 
+      "difficulty": "hard",
+      "question": "Trong tìm kiếm theo chiều sâu (DFS), khi đi vào nhánh cụt, thì sẽ làm gì?",
+      "correct_answer": "a", 
+      "answers": [
+        "a. Quay lại tìm nhánh khác",
+        "b. Dừng tìm kiếm",
+        "c. Quay lại điểm ban đầu", 
+        "d. Đi thẳng đến mục tiêu"
       ]
     }
   ]
